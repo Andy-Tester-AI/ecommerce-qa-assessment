@@ -8,8 +8,8 @@ The core principle: **test depth follows business risk, not feature count**.
 
 Inventory consistency and order/payment state correctness receive the deepest testing. Lower-risk UI and basic validation receive lighter coverage.
 
-> Detailed model definitions → `MFQ-Test-Plan.md` M1–M5
-> Detailed functional cases → `MFQ-Test-Plan.md` F1–F10
+> Detailed model definitions → `MFQ-Test-Plan.md` M1–M5<br>
+> Detailed functional cases → `MFQ-Test-Plan.md` F1–F10<br>
 > Detailed quality objectives → `MFQ-Test-Plan.md` Q1–Q5
 
 ---
